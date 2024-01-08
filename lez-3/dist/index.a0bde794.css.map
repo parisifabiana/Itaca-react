@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;ACAA","sources":["public/index.css","src/app.css"],"sourcesContent":[".name {\r\n    background-color: aqua;\r\n}",".container {\r\n    background-color: aqua;\r\n}"],"names":[],"version":3,"file":"index.a0bde794.css.map","sourceRoot":"/__parcel_source_root/"}
