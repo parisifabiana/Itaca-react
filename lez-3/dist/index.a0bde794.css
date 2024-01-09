@@ -2,8 +2,73 @@
   background-color: #0ff;
 }
 
-.container {
-  background-color: #0ff;
+body {
+  background-color: #00f;
+}
+
+.register {
+  float: right;
+  color: #00f;
+  background-color: #ff0;
+  border-style: none;
+  border-radius: 10px;
+  width: 120px;
+  height: 30px;
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+section {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  color: #ff0;
+  margin-bottom: 0;
+  font-size: 40px;
+}
+
+.subtitle {
+  color: #fff;
+  font-size: 15px;
+}
+
+.grey-box {
+  background-color: #d3d3d3;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+p {
+  color: #00f;
+  margin-bottom: 5px;
+}
+
+input {
+  border-style: none;
+  border-radius: 20px;
+  width: 200px;
+  height: 30px;
+  margin-top: 0;
+}
+
+.sign-in {
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  display: flex;
+}
+
+.sign {
+  color: #00f;
+  background-color: #ff0;
+  border-style: none;
+  border-radius: 10px;
+  width: 90px;
+  height: 30px;
 }
 
 /*# sourceMappingURL=index.a0bde794.css.map */
